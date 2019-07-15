@@ -22,7 +22,7 @@ Add prettier config in `package.json`
 
 ```json
 {
-  "prettier": "@dcrtantuco/prettier-config"
+  "prettier": "@dcrtantuco/prettier-config",
   "scripts": {
     "prettier:check": "prettier --list-different 'css/**/*.{css,scss}' 'js/**/*.{js,jsx,ts,tsx}'",
     "prettier:fix": "prettier --write 'css/**/*.{css,scss}' 'js/**/*.{js,jsx,ts,tsx}'"
