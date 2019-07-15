@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config",
+  "main": "index.js",
+  "repository": "git@github.com:dcrtantuco/prettier-config.git",
+  "author": "darwin christopher tantuco <darwinxciii@yahoo.com>",
+  "license": "MIT"
+}
