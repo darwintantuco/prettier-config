@@ -2,6 +2,10 @@
 
 My personal prettier config
 
+## Dependencies
+
+- prettier
+
 ## Installation
 
 ### npm
@@ -13,7 +17,7 @@ npm install prettier @darwintantuco/prettier-config --save-dev
 ### yarn
 
 ```
-yarn add prettier @darwintantuco/prettier-config --dev
+yarn add @darwintantuco/prettier-config --dev
 ```
 
 ## Usage
